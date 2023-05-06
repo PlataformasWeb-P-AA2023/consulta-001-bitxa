@@ -14,4 +14,4 @@
     * Generar una consulta en MongoDB de la información ingresada y presentar por consola
 
 # Wiki
-Revisa la wiki sobre la instalación de MongoDB: [https://github.com/PlataformasWeb-P-AA2023/consulta-001-bitxa/wiki/MONGO-DB](https://github.com/PlataformasWeb-P-AA2023/consulta-001-bitxa/wiki/MONGO-DB).
+Revisa la wiki sobre la instalación de MongoDB: [MONGODB](https://github.com/PlataformasWeb-P-AA2023/consulta-001-bitxa/wiki/MONGO-DB).
