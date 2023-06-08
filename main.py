@@ -49,8 +49,8 @@ if __name__ == '__main__':
     add_to_table(test_table, tournaments_example)
 
     print(test_table)
-    print(f"Success?: {test.acknowledged}")
-    print(f"Inserted IDs: {test.inserted_ids}")
+    print(f"Success?: {test.acknowledged} ")
+    print(f"Inserted IDs: {test.inserted_ids} ")
 
     ####### QUERY 2: Filtering documents #################################
     query = {"Tournament": "US Open"}
